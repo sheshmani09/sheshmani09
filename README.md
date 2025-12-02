@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sheshmani</h1>
-<h3 align="center">Exploring Frontend</h3>
+<h3 align="center">⚛️ Exploring Frontend ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheshmani09&label=Profile%20views&color=0e75b6&style=flat" alt="sheshmani09" /> </p>
 
@@ -36,8 +36,7 @@
 &nbsp; &nbsp;
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
-
+<br>
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sheshmani09&show_icons=true&locale=en" alt="sheshmani09" height="150" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheshmani09&" alt="sheshmani09" height="150" />
 </p>
