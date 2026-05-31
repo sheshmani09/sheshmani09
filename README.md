@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sheshmani</h1>
-<h3 align="center">⚛️ Exploring Frontend ✨</h3>
+<h3 align="center">Exploring Java Backend ✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheshmani09&label=Profile%20views&color=0e75b6&style=flat" alt="sheshmani09" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sheshmani_09" target="_blank"><img src="https://img.shields.io/twitter/follow/sheshmani_09?logo=twitter&style=for-the-badge" alt="sheshmani_09" /></a> </p>
 
-- 🌱 I’m currently learning **React and DSA**
+- 🌱 I’m currently learning **Java Backend and SQL**
 
 - 📫 How to reach me **sheshmanisahu09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://sheshmani-portfolio.vercel.app/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/ion:globe-outline.svg?color=%234A5568" alt="portfolio" width="40" height="30"/> </a>
+&nbsp; &nbsp;
 <a href="https://twitter.com/sheshmani_09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheshmani_09" height="30" width="40" /></a>
 &nbsp; &nbsp;
 <a href="https://linkedin.com/in/sheshmani-sahu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheshmani-sahu" height="30" width="40" /></a>
@@ -20,6 +22,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+&nbsp; &nbsp; 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> 
+&nbsp; &nbsp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="38" height="38"/> </a> 
 &nbsp; &nbsp;
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
